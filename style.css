@@ -32,3 +32,37 @@ body{
 #forgiv{
     font-size: 13px;
 }
+#for-box{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    box-shadow: 16px 17px 40px rgb(44, 25, 25);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(63, 13, 243), rgb(8, 253, 69));
+    border-image-slice: 1;
+    border-radius: 6px;
+}
+#for-box-tow{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 20%;
+    box-shadow: 16px 17px 40px rgb(44, 25, 25);
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(253, 23, 6), rgb(204, 0, 255));
+    border-image-slice: 1;
+    border-radius: 6px;
+}
+#background{
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#for-background{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+
+}
+footer{
+    text-align: center;
+}
